@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Amit Kumar 👋
 
-<!--
-**amitark7/amitark7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer in the making, building with NestJS and Go.
 
-Here are some ideas to get you started:
+## 🔧 What I'm working on
+- Order-Flow: async order processing with NestJS, Go workers, PostgreSQL, RabbitMQ and Kafka
+- Learning Go (goroutines, HTTP, and more)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech stack
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/amitkr077)
+
+## 📊 GitHub stats
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitark7&show_icons=true)
